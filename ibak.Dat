@@ -1,0 +1,17 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ibak.PrjPCB|ReportField=ProjectFullPath~C:\Users\User\Documents\170917 оздание печатной платы\Для производства\новая\ibak.PrjPCB|ReportField=Title~Bill of Materials For Project [ibak.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~70|ReportField=ReportTime~23:05:57|ReportField=ReportDate~15.01.2018|ReportField=ReportDateTime~15.01.2018 23:05:57|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~15.01.2018|ReportField=CurrentTime~23:05:46|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\User\Documents\170917 оздание печатной платы\с ЖК дисплеем\LED.SchDoc|ReportField=DocumentName~LED.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~14.01.2018|ReportField=Organization~|ReportField=ProjectName~ibak.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ibak.PrjPCB|ReportField=DataSourceFullPath~C:\Users\User\Documents\170917 оздание печатной платы\Для производства\новая\ibak.PrjPCB
+ATmega328P-AU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)|ATMega328p|32A_N|ATmega328P-AU|1
+TS6604|WS-TASV SMD Tact Switch 6X6 mm|B11, B12, B13, B14, B15, B21, B22, B23, B24, B25, B31, B32, B33, B34, B35, B41, B42, B43, B44, B45, BM, BN|430182070816|430182070816|22
+0.1 uF|Ceramic Chip Capacitor - Standard|C3|0805|C0805|1
+2.2 uF|Ceramic Chip Capacitor - Standard|c4, c10|0805|C0805|2
+1 uF|Ceramic Chip Capacitor - Standard|c5, c7|0805|C0805|2
+0.1 nF|Ceramic Chip Capacitor - Standard|c6, c9|0805|C0805|2
+1N4148WS||D11, D12, D13, D14, D15, D21, D22, D23, D24, D25, D31, D32, D33, D34, D35, D41, D42, D43, D44, D45|sod323|SOD323|20
+LP2985|Micropower 150 mA Low-Noise Ultra Low-Dropout Regulator, 5-pin SOT-23|DC5, DC5.2|MF05A_N|LP2985AIM5-1.5|2
+DS1021|Header, 12-Pin|LCD|HDR1X12|Header 12|1
+DS1021|Header, 2-Pin|POWER|HDR1X2|Header 2|1
+100k||R12, R19, R20, R21, R22, R23, R25, R26, R27, R28|res_0805|res_0805|10
+0u||R24|res_0805|res_0805|1
+MC74HC595AD|8-Bit Serial-Input/Serial or Prallel-Output Shift Register with Latched 3-State Outputs|Reg2|751B-05_N|MC74HC595AD|1
+HD74HC165FP|Parallel-Load 8-bit Shift Register|regIN|PRSP0016DH-B_N|HD74HC165FP|1
+DS1021|Header, 4-Pin|SPI, UART|HDR1X4|Header 4|2
+M49-16.000-18- 30/50/-40+85||XLAT|cristal|cristal_smd|1
